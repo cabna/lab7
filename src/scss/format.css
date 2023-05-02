@@ -1,0 +1,7 @@
+body {
+  background: linear-gradient(to bottom right, #49C514, #4C8434, #226A04, #88EB5D, #AFEB95);
+  max-width: 1200px;
+  margin: 0 auto;
+  /* Встановлюємо відступи та поля */
+  padding: 20px;
+}
